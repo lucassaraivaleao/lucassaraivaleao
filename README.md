@@ -18,6 +18,8 @@
 
 ![liondev19 GitHub stats](https://github-readme-stats.vercel.app/api?username=lucassaraivaleao&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassaraivaleao)](https://github.com/lucassaraivaleao/github-readme-stats)
+
 
 
 
