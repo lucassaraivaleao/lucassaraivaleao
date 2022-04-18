@@ -1,5 +1,8 @@
 ### Olá Eu sou Lucas Leão🐧 !
 
+![liondev19 GitHub stats](https://github-readme-stats.vercel.app/api?username=lucassaraivaleao&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassaraivaleao)](https://github.com/lucassaraivaleao/github-readme-stats)
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-le%C3%A3o-01210220a/)
 [![LinuxMint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)]()
 
@@ -16,9 +19,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas.saraiva.leao/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/liondev19)
 
-![liondev19 GitHub stats](https://github-readme-stats.vercel.app/api?username=lucassaraivaleao&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassaraivaleao)](https://github.com/lucassaraivaleao/github-readme-stats)
 
 
 
